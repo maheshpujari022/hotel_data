@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "category":"breakfat",
+        "type":"veg",
+        "name":"puri",
+        "price":40
+    },
+    {
+        "id":2,
+        "category":"breakfat",
+        "type":"veg",
+        "name":"dosa",
+        "price":50
+    },{
+        "id":3,
+        "category":"breakfat",
+        "type":"veg",
+        "name":"idli",
+        "price":35
+    },{
+        "id":4,
+        "category":"breakfat",
+        "type":"veg",
+        "name":"pulav",
+        "price":55
+    },
+]

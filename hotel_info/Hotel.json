@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Sun Park Resort",
+        "city":"Hubli",
+        "city_id":1,
+        "rating":4,
+        "image":"https://i.ibb.co/N7NLCqS/download.jpg",
+        "address":"4th Block,Pandya nagar,Hubli",
+        "phone":9677458974
+
+    },
+    {
+        "id":2,
+        "name":"Ice Cube",
+        "city":"Davanagere",
+        "city_id":2,
+        "rating":3,
+        "image":"https://i.ibb.co/wdSR2wT/download-1.jpg",
+        "address":"Kajara mall opposite,Davanagere",
+        "phone":9745124578
+    },
+    {
+        "id":3,
+        "name":"Carry Tin",
+        "city":"Koppal",
+        "city_id":3,
+        "rating":3,
+        "image":"https://i.ibb.co/CbGrQgx/download-2.jpg",
+        "address":"New latty compound,Mekali street,Koppal",
+        "phone":9457861245 
+    },
+    {
+        "id":4,
+        "name":"Loyla Bish",
+        "city":"Mulki",
+        "city_id":4,
+        "rating":5,
+        "image":"https://i.ibb.co/nB4rn0Y/download-3.jpg",
+        "address":"Dayana bazar,Mulki",
+        "phone":7845784578
+
+    }
+]
